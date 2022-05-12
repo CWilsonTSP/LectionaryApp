@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An app written in react native with Expo containing the new Roman Catholic lectionary pulled from the USCCB",
+    "githubUrl": "https://github.com/CWilsonTSP/LectionaryApp"
   }
 }
