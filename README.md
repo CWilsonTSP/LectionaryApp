@@ -12,6 +12,6 @@ it in a legible way,
 ## Licenses and Copyright 
 
 Any work which I have created pertaining to this application is licensed under
-the [GPLv3 License](../LICENSE), while packages, clients, frameworks, or any other
+the [GPLv3 License](https://github.com/CWilsonTSP/LectionaryApp/blob/master/LICENSE), while packages, clients, frameworks, or any other
 bits of code that are redistributed in this repository are licensed under their
 respective original licenses. 
