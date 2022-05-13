@@ -4,6 +4,9 @@ This is an app created with the Expo client for React which pulls the Roman
 Catholic lectionary from the [USCCB website](https://bible.usccb.org) and formats
 it in a legible way,
 
+This is a sort of remaking of my [Catholic App](https://github.com/CWilsonTSP/CatholicApp)
+project, in which will only focus on [doing one thing well](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well). 
+
 ## TODO
 
 - Add a database for offline use
